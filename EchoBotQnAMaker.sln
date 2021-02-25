@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoBotQnAMaker", "EchoBotQnAMaker.csproj", "{442C78FD-083F-4A58-8FA8-FC38F4041D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442C78FD-083F-4A58-8FA8-FC38F4041D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442C78FD-083F-4A58-8FA8-FC38F4041D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442C78FD-083F-4A58-8FA8-FC38F4041D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442C78FD-083F-4A58-8FA8-FC38F4041D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA482BD6-2E0C-4EBE-B1D7-2B04F5414185}
+	EndGlobalSection
+EndGlobal
